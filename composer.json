@@ -10,18 +10,16 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
-        "illuminate/support": "self.version",
-        "illuminate/database": "self.version"
+        "laravel/framework": "5.*"
     },
     "autoload": {
         "psr-4": {
-            "Dyusha\\HtmlEditor\\": "src/"
+            "Roae\\HtmlEditor\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Dyusha\\HtmlEditor\\Tests\\": "tests/"
+            "Roae\\HtmlEditor\\Tests\\": "tests/"
         }
     }
 }
