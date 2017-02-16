@@ -11,8 +11,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "illuminate/support": "5.1.x",
-        "illuminate/database": "5.1.x"
+        "laravel/framework": "5.*"
     },
     "autoload": {
         "psr-4": {
