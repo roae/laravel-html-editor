@@ -1,5 +1,5 @@
 {
-    "name": "dyusha/laravel-html-editor",
+    "name": "roae/laravel-html-editor",
     "description": "Laravel package that allows inline editing of HTML blocks",
     "keywords": ["laravel", "html", "content management"],
     "license": "MIT",
